@@ -252,10 +252,10 @@ Main libraries
 **Anula Biju**
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/Anula-anu
 
 LinkedIn:
-https://www.linkedin.com/in/YOUR_PROFILE
+https://linkedin.com/in/anulabiju
 
 ---
 
